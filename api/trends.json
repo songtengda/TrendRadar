@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-17T19:21:33.980914+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-06-18T01:53:21.767551+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "健身房偶遇刘宇宁",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%81%A5%E8%BA%AB%E6%88%BF%E5%81%B6%E9%81%87%E5%88%98%E5%AE%87%E5%AE%81%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
