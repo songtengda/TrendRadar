@@ -1,39 +1,22 @@
 {
-  "generated_at": "2026-06-19T20:39:17.036981+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-06-20T03:18:06.467643+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
+      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
       "match_count": 1,
       "titles": [
         {
-          "title": "一个粽子热量顶两碗米饭",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E7%B2%BD%E5%AD%90%E7%83%AD%E9%87%8F%E9%A1%B6%E4%B8%A4%E7%A2%97%E7%B1%B3%E9%A5%AD",
+          "title": "在太空健身是什么体验",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%81%A5%E8%BA%AB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
           "source": "百度热搜",
           "ranks": [
-            17
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "粽子怎么吃不影响血糖",
-          "url": "https://www.toutiao.com/trending/7652341910656335891/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 03时18分]"
         }
       ]
     }
