@@ -1,39 +1,22 @@
 {
-  "generated_at": "2026-06-20T18:22:01.576284+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-06-21T00:08:04.113965+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
+      "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
       "match_count": 1,
       "titles": [
         {
-          "title": "在太空健身是什么体验",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%81%A5%E8%BA%AB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "百度热搜",
+          "title": "哈兰德一天摄入热量约合70个鸡蛋",
+          "url": "https://www.toutiao.com/trending/7653445551488257579/",
+          "source": "今日头条",
           "ranks": [
-            3
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 07时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一夜能否睡得好 深度睡眠是关键",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%9C%E8%83%BD%E5%90%A6%E7%9D%A1%E5%BE%97%E5%A5%BD+%E6%B7%B1%E5%BA%A6%E7%9D%A1%E7%9C%A0%E6%98%AF%E5%85%B3%E9%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 00时08分]"
         }
       ]
     }
