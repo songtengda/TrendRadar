@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-21T18:50:02.258125+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-06-22T00:58:48.786632+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "哈兰德一天摄入热量约合70个鸡蛋",
-          "url": "https://www.toutiao.com/trending/7653445551488257579/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
