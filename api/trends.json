@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-06-23T18:51:58.706758+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-06-24T01:32:36.811091+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 2,
+      "keyword_group": "健康减肥 科学减肥 减脂 体重管理 肥胖 BMI",
+      "match_count": 1,
       "titles": [
         {
-          "title": "儿子每晚用绳牵着脑梗父亲跑步",
-          "url": "https://www.toutiao.com/trending/7653814688451624979/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "男子每晚用绳牵着脑梗父亲跑步",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%AF%8F%E6%99%9A%E7%94%A8%E7%BB%B3%E7%89%B5%E7%9D%80%E8%84%91%E6%A2%97%E7%88%B6%E4%BA%B2%E8%B7%91%E6%AD%A5",
+          "title": "15岁少年肥胖诱发糖尿病离世",
+          "url": "https://www.baidu.com/s?wd=15%E5%B2%81%E5%B0%91%E5%B9%B4%E8%82%A5%E8%83%96%E8%AF%B1%E5%8F%91%E7%B3%96%E5%B0%BF%E7%97%85%E7%A6%BB%E4%B8%96",
           "source": "百度热搜",
           "ranks": [
-            24
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "01时32分"
         }
       ]
     }
