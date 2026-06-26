@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-26T19:20:21.593464+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-06-27T02:14:11.013997+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "健康减肥 科学减肥 减脂 体重管理 肥胖 BMI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "BMI 是否严重不准?",
-          "url": "https://www.zhihu.com/question/382887507",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 02时37分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
