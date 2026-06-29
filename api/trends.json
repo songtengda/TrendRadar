@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-06-29T22:38:25.248980+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-06-30T05:11:23.467184+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "女子跑步4年不拉伸小腿肌肉硬如铁",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B7%91%E6%AD%A54%E5%B9%B4%E4%B8%8D%E6%8B%89%E4%BC%B8%E5%B0%8F%E8%85%BF%E8%82%8C%E8%82%89%E7%A1%AC%E5%A6%82%E9%93%81",
+          "title": "女子健身不当 居然“脑子漏水”了",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E4%B8%8D%E5%BD%93+%E5%B1%85%E7%84%B6%E2%80%9C%E8%84%91%E5%AD%90%E6%BC%8F%E6%B0%B4%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            8,
-            13
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 06时43分]"
-        },
-        {
-          "title": "跑步机上“爬坡”减肥公式爆火",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E6%AD%A5%E6%9C%BA%E4%B8%8A%E2%80%9C%E7%88%AC%E5%9D%A1%E2%80%9D%E5%87%8F%E8%82%A5%E5%85%AC%E5%BC%8F%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 06时43分]"
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     }
