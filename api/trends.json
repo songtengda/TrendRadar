@@ -1,39 +1,33 @@
 {
-  "generated_at": "2026-06-30T18:43:25.612259+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-07-01T01:32:34.513280+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 1,
+      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
+      "match_count": 2,
       "titles": [
         {
-          "title": "女子健身不当 居然“脑子漏水”了",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E4%B8%8D%E5%BD%93+%E5%B1%85%E7%84%B6%E2%80%9C%E8%84%91%E5%AD%90%E6%BC%8F%E6%B0%B4%E2%80%9D%E4%BA%86",
+          "title": "男子血糖升高4年不管心脏近乎报废",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%80%E7%B3%96%E5%8D%87%E9%AB%984%E5%B9%B4%E4%B8%8D%E7%AE%A1%E5%BF%83%E8%84%8F%E8%BF%91%E4%B9%8E%E6%8A%A5%E5%BA%9F",
           "source": "百度热搜",
           "ranks": [
-            30
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时32分"
+        },
         {
-          "title": "考试季如何平衡学习和睡眠",
-          "url": "https://search.bilibili.com/all?keyword=%E8%80%83%E8%AF%95%E5%AD%A3%E5%A6%82%E4%BD%95%E5%B9%B3%E8%A1%A1%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%9D%A1%E7%9C%A0",
-          "source": "bilibili 热搜",
+          "title": "39岁男子4年不管血糖心脏近乎报废",
+          "url": "https://s.weibo.com/weibo?q=%2339%E5%B2%81%E7%94%B7%E5%AD%904%E5%B9%B4%E4%B8%8D%E7%AE%A1%E8%A1%80%E7%B3%96%E5%BF%83%E8%84%8F%E8%BF%91%E4%B9%8E%E6%8A%A5%E5%BA%9F%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "01时32分"
         }
       ]
     }
