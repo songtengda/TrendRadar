@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T01:32:34.513280+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-01T06:54:41.405128+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A1%80%E7%B3%96%E5%8D%87%E9%AB%984%E5%B9%B4%E4%B8%8D%E7%AE%A1%E5%BF%83%E8%84%8F%E8%BF%91%E4%B9%8E%E6%8A%A5%E5%BA%9F",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 06时54分]"
         },
         {
           "title": "39岁男子4年不管血糖心脏近乎报废",
