@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-04T23:47:41.444698+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-07-05T04:16:18.239278+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "健康减肥 科学减肥 减脂 体重管理 肥胖 BMI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国糖尿病协会下调亚裔人群超重和肥胖 BMI 标准，为何要下调？BMI 正常就代表体重健康吗？",
-          "url": "https://www.zhihu.com/question/2056372314535453404",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
