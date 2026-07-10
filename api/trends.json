@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-07-10T18:37:59.871514+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-07-11T01:31:50.620437+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待良子 26 年的体检报告，他的血糖血压甚至更健康了吗？",
-          "url": "https://www.zhihu.com/question/2058494548238496671",
-          "source": "知乎",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 06时52分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
