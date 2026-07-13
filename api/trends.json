@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T02:32:10.353142+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-07-14T04:11:08.899569+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%B0%B4%E6%B2%B9%E7%84%96%E8%8F%9C%E7%AE%80%E7%9B%B4%E6%98%AF%E5%87%8F%E8%84%82%E4%BA%BA%E7%A6%8F%E9%9F%B3&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 04时11分]"
         }
       ]
     }
