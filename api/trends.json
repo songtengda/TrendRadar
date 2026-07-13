@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-14T00:28:33.560862+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-14T02:32:10.353142+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "健康减肥 科学减肥 减脂 体重管理 肥胖 BMI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "水油焖菜简直是减脂人福音",
+          "url": "https://s.weibo.com/weibo?q=%E6%B0%B4%E6%B2%B9%E7%84%96%E8%8F%9C%E7%AE%80%E7%9B%B4%E6%98%AF%E5%87%8F%E8%84%82%E4%BA%BA%E7%A6%8F%E9%9F%B3&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 02时32分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
