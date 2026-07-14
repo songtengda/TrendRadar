@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-07-14T23:21:32.975814+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2026-07-15T01:10:36.379669+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "德云社阎鹤祥已确诊重度脂肪肝",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E4%BA%91%E7%A4%BE%E9%98%8E%E9%B9%A4%E7%A5%A5%E5%B7%B2%E7%A1%AE%E8%AF%8A%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 21时24分]"
-        },
-        {
-          "title": "阎鹤祥重度脂肪肝",
-          "url": "https://www.toutiao.com/trending/7662108323768549422/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "健康减肥 科学减肥 减脂 体重管理 肥胖 BMI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "水油焖菜简直是减脂人福音",
-          "url": "https://s.weibo.com/weibo?q=%E6%B0%B4%E6%B2%B9%E7%84%96%E8%8F%9C%E7%AE%80%E7%9B%B4%E6%98%AF%E5%87%8F%E8%84%82%E4%BA%BA%E7%A6%8F%E9%9F%B3&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            27,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时31分 ~ 06时53分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
