@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T17:54:13.129980+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-07-14T19:24:05.663744+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "德云社阎鹤祥已确诊重度脂肪肝",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E4%BA%91%E7%A4%BE%E9%98%8E%E9%B9%A4%E7%A5%A5%E5%B7%B2%E7%A1%AE%E8%AF%8A%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时24分]"
+        },
+        {
           "title": "阎鹤祥重度脂肪肝",
           "url": "https://www.toutiao.com/trending/7662108323768549422/",
           "source": "今日头条",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时54分]"
-        },
-        {
-          "title": "德云社阎鹤祥已确诊重度脂肪肝",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E4%BA%91%E7%A4%BE%E9%98%8E%E9%B9%A4%E7%A5%A5%E5%B7%B2%E7%A1%AE%E8%AF%8A%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 2,
