@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-07-14T15:11:25.563520+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-07-14T17:54:13.129980+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阎鹤祥重度脂肪肝",
+          "url": "https://www.toutiao.com/trending/7662108323768549422/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
+        },
+        {
+          "title": "德云社阎鹤祥已确诊重度脂肪肝",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E4%BA%91%E7%A4%BE%E9%98%8E%E9%B9%A4%E7%A5%A5%E5%B7%B2%E7%A1%AE%E8%AF%8A%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
+        }
+      ]
+    },
     {
       "keyword_group": "健康减肥 科学减肥 减脂 体重管理 肥胖 BMI",
       "match_count": 1,
