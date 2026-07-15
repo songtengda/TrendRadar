@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-15T17:58:26.243001+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-07-15T19:31:15.484807+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "邹市明上海拳馆年租金高达 5000 万元，年卡定价达 8.8 万，天价投资健身房的盈利模式是怎样的？",
+          "url": "https://www.zhihu.com/question/2060401370436297161",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时31分]"
+        }
+      ]
+    },
     {
       "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
       "match_count": 1,
