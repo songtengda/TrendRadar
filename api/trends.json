@@ -1,40 +1,22 @@
 {
-  "generated_at": "2026-07-15T23:25:48.126409+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-07-16T01:13:33.104957+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
+      "keyword_group": "健康减肥 科学减肥 减脂 体重管理 肥胖 BMI",
       "match_count": 1,
       "titles": [
         {
-          "title": "邹市明上海拳馆年租金高达 5000 万元，年卡定价达 8.8 万，天价投资健身房的盈利模式是怎样的？",
-          "url": "https://www.zhihu.com/question/2060401370436297161",
-          "source": "知乎",
+          "title": "诺和诺德：欧盟批准Wegovy®口服药片上市，成为首个用于体重管理的口服GLP-1药物；同时批准高剂量7.2 mg单剂量即用型注射笔。",
+          "url": "https://wallstreetcn.com/livenews/3134514",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 21时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阎鹤祥重度脂肪肝",
-          "url": "https://www.toutiao.com/trending/7662108323768549422/",
-          "source": "今日头条",
-          "ranks": [
-            29
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时54分"
+          "time_info": "01时13分"
         }
       ]
     }
