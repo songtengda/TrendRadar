@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T05:09:18.999750+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-07-17T07:56:06.615684+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B7%91%E6%AD%A5%E7%8C%9D%E6%AD%BB+%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E6%A0%A1%E6%96%B9%E6%80%A5%E6%95%91%E4%B8%8D%E5%8A%9B",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 07时56分]"
         }
       ]
     }
