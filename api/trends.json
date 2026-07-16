@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T20:18:49.310780+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-07-16T22:57:32.329432+08:00",
+  "total_titles_processed": 1686,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女孩跑步猝死 家属质疑校方急救不力",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%B7%91%E6%AD%A5%E7%8C%9D%E6%AD%BB+%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E6%A0%A1%E6%96%B9%E6%80%A5%E6%95%91%E4%B8%8D%E5%8A%9B",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         }
       ]
     }
