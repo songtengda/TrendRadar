@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-17T20:06:02.376954+08:00",
-  "total_titles_processed": 1455,
-  "failed_sources": [],
+  "generated_at": "2026-07-17T22:31:51.442148+08:00",
+  "total_titles_processed": 1590,
+  "failed_sources": [
+    "jin10"
+  ],
   "trends": [
     {
       "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
