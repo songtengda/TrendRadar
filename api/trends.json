@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-21T23:40:55.107964+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-07-22T01:14:19.768716+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "MetaPlatforms(META.O)：启用监督功能后，家长可以查看青少年在Threads上花费的时间、设置每日使用时限、调整睡眠模式以及管理隐私设置。",
+          "url": "https://flash.jin10.com/detail/20260722000220023800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
