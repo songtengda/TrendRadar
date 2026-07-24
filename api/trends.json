@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-07-24T22:51:44.813383+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2026-07-25T01:13:19.257435+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "健康减肥 科学减肥 减脂 体重管理 肥胖 BMI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "很多人为减脂选择吃全麦面包作为碳水摄入，专家却称全麦面包热量往往高于白面包，真是这样吗？",
-          "url": "https://www.zhihu.com/question/2033108095581120175",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家喊你来健身了",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%96%8A%E4%BD%A0%E6%9D%A5%E5%81%A5%E8%BA%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "睡眠好坏和床头朝向有关系吗",
-          "url": "https://www.toutiao.com/trending/7665994373577932850/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 22时51分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
