@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T07:57:27.039444+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-07-24T10:22:17.382670+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时01分 ~ 07时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家喊你来健身了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%96%8A%E4%BD%A0%E6%9D%A5%E5%81%A5%E8%BA%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         }
       ]
     }
