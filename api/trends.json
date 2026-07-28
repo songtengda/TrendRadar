@@ -1,71 +1,22 @@
 {
-  "generated_at": "2026-07-28T21:54:20.769764+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-07-29T00:04:11.939108+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "比跑步更护心的运动找到了",
-          "url": "https://www.toutiao.com/trending/7666788354238955562/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 08时00分]"
-        },
-        {
-          "title": "何与朋友圈健身照滤镜",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%81%A5%E8%BA%AB%E7%85%A7%E6%BB%A4%E9%95%9C&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        }
-      ]
-    },
     {
       "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
       "match_count": 1,
       "titles": [
         {
-          "title": "超8成肠癌患者长期高脂高蛋白饮食",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%858%E6%88%90%E8%82%A0%E7%99%8C%E6%82%A3%E8%80%85%E9%95%BF%E6%9C%9F%E9%AB%98%E8%84%82%E9%AB%98%E8%9B%8B%E7%99%BD%E9%A5%AE%E9%A3%9F%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "1个西瓜卖898元 商家称营养高10倍",
+          "url": "https://www.baidu.com/s?wd=1%E4%B8%AA%E8%A5%BF%E7%93%9C%E5%8D%96898%E5%85%83+%E5%95%86%E5%AE%B6%E7%A7%B0%E8%90%A5%E5%85%BB%E9%AB%9810%E5%80%8D",
+          "source": "百度热搜",
           "ranks": [
-            24
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "体检报告上的脂肪肝离肝炎有多远",
-          "url": "https://www.toutiao.com/trending/7667137714609160228/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 08时00分]"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 00时04分]"
         }
       ]
     }
