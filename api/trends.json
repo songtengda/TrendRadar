@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-30T19:04:31.874643+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-07-30T21:48:35.180186+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "东阳光药德谷胰岛素获批上市",
+          "url": "https://wallstreetcn.com/livenews/3142477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
