@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-01T10:48:38.537078+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-08-01T13:52:05.188344+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "健康减肥 科学减肥 减脂 体重管理 肥胖 BMI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "奶奶给我做的减脂餐",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B6%E5%A5%B6%E7%BB%99%E6%88%91%E5%81%9A%E7%9A%84%E5%87%8F%E8%84%82%E9%A4%90&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        }
+      ]
+    },
     {
       "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
       "match_count": 1,
@@ -13,11 +30,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时05分 ~ 10时48分]"
+          "appearance_count": 9,
+          "time_info": "[02时05分 ~ 13时52分]"
         }
       ]
     }
