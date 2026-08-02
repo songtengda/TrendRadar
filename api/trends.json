@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:27:59.124191+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-08-02T22:59:39.458298+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时52分 ~ 21时27分]"
+          "appearance_count": 7,
+          "time_info": "[13时52分 ~ 22时59分]"
         },
         {
           "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
@@ -39,11 +40,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 21时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时59分]"
         }
       ]
     },
