@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-08-02T10:15:05.099680+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-08-02T13:53:12.570222+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "男子健身时被他人指控偷拍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356671&amp;topic_name=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%97%B6%E8%A2%AB%E4%BB%96%E4%BA%BA%E6%8C%87%E6%8E%A7%E5%81%B7%E6%8B%8D",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 13时53分]"
+        },
+        {
+          "title": "余霜沉迷健身,怀孕难掩身材",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356719&amp;topic_name=%E4%BD%99%E9%9C%9C%E6%B2%89%E8%BF%B7%E5%81%A5%E8%BA%AB%2C%E6%80%80%E5%AD%95%E9%9A%BE%E6%8E%A9%E8%BA%AB%E6%9D%90",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        }
+      ]
+    },
     {
       "keyword_group": "健康减肥 科学减肥 减脂 体重管理 肥胖 BMI",
       "match_count": 1,
@@ -18,23 +47,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "男子健身时被他人指控偷拍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356671&amp;topic_name=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%97%B6%E8%A2%AB%E4%BB%96%E4%BA%BA%E6%8C%87%E6%8E%A7%E5%81%B7%E6%8B%8D",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 10时15分]"
         }
       ]
     }
