@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T13:53:12.570222+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-08-02T16:14:48.470269+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "贴吧",
           "ranks": [
             22,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 16时14分]"
         },
         {
           "title": "余霜沉迷健身,怀孕难掩身材",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356719&amp;topic_name=%E4%BD%99%E9%9C%9C%E6%B2%89%E8%BF%B7%E5%81%A5%E8%BA%AB%2C%E6%80%80%E5%AD%95%E9%9A%BE%E6%8E%A9%E8%BA%AB%E6%9D%90",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 16时14分]"
         }
       ]
     },
