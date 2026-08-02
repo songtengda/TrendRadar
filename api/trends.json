@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T18:37:51.382042+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-08-02T19:59:50.214509+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "男子健身时被他人指控偷拍",
@@ -17,8 +17,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 18时37分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 19时59分]"
         },
         {
           "title": "余霜沉迷健身,怀孕难掩身材",
@@ -30,8 +30,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 18时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 19时59分]"
+        },
+        {
+          "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
+          "url": "https://www.zhihu.com/question/2067249773761880647",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
