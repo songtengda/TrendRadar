@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T10:22:27.442540+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-08-03T14:18:03.339039+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "余霜沉迷健身,怀孕难掩身材",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 10时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 14时18分]"
         },
         {
           "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "跑步vs健身谁更适合HYROX",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B7%91%E6%AD%A5vs%E5%81%A5%E8%BA%AB%E8%B0%81%E6%9B%B4%E9%80%82%E5%90%88HYROX",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时18分]"
         }
       ]
     }
