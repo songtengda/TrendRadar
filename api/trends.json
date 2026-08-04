@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-04T23:25:07.201766+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-08-05T01:41:46.587782+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一夜无梦才是高质量的睡眠是真的吗？",
-          "url": "https://www.zhihu.com/question/2017951131049883567",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时24分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
