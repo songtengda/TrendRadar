@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T13:44:31.160946+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-08-06T16:27:48.041036+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "数字技术赋能全民健身再升级",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "中国优质服务加快走向全球",
+          "url": "https://www.douyin.com/hot/2599763",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "为什么健身房有很多会员宁愿自己练了很久没变化也不请教练？",
