@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:43:04.639535+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-08-07T20:52:49.451253+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 19时43分]"
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 20时52分]"
         },
         {
           "title": "为什么血糖高脚最先“遭殃”",
