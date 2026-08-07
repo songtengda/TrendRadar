@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-08-07T23:52:37.173498+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-08-08T00:49:32.267015+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全国睡眠舒适度地图",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E7%9D%A1%E7%9C%A0%E8%88%92%E9%80%82%E5%BA%A6%E5%9C%B0%E5%9B%BE",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 20时52分]"
-        },
-        {
-          "title": "为什么血糖高脚最先“遭殃”",
-          "url": "https://www.toutiao.com/trending/7670650447258599465/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
