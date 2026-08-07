@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-08-06T21:54:25.804633+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-08-07T08:39:39.009354+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国优质服务加快走向全球",
-          "url": "https://www.douyin.com/hot/2599763",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 19时18分]"
-        },
-        {
-          "title": "数字技术赋能全民健身再升级",
-          "url": "https://www.douyin.com/hot/2599328",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "为什么健身房有很多会员宁愿自己练了很久没变化也不请教练？",
-          "url": "https://www.zhihu.com/question/654217343",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 01时47分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
