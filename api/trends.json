@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T01:25:39.836881+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-08-09T02:31:34.750504+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "全民健身日｜2万条线上问诊记录里，人们在主动关注哪些健康问题",
@@ -28,8 +29,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "我想开始健身，没钱请不起私教，看到有报道健身不当，还有肌溶症，有点害怕，请问没有私教如何能安全健身？",
@@ -39,8 +40,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时31分]"
         }
       ]
     }
