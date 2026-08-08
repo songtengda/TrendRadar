@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:45:01.903050+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-08-08T16:35:39.215398+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 15时45分]"
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 16时35分]"
         },
         {
           "title": "我想开始健身，没钱请不起私教，看到有报道健身不当，还有肌溶症，有点害怕，请问没有私教如何能安全健身？",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 16时35分]"
         }
       ]
     },
