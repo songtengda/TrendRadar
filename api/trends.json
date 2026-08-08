@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T02:31:34.750504+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-08-09T03:27:06.221984+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "89岁钟南山高能量日常：每周健身3次",
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时27分]"
         },
         {
           "title": "全民健身日｜2万条线上问诊记录里，人们在主动关注哪些健康问题",
@@ -29,8 +30,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时27分]"
         },
         {
           "title": "我想开始健身，没钱请不起私教，看到有报道健身不当，还有肌溶症，有点害怕，请问没有私教如何能安全健身？",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "全民健身日科普来了",
+          "url": "https://www.douyin.com/hot/2602032",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 03时27分]"
         }
       ]
     }
