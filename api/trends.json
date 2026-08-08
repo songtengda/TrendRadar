@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T18:27:51.636498+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-08-08T19:24:10.494616+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             15,
             8,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时21分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[11时21分 ~ 19时24分]"
         },
         {
           "title": "我想开始健身，没钱请不起私教，看到有报道健身不当，还有肌溶症，有点害怕，请问没有私教如何能安全健身？",
           "url": "https://www.zhihu.com/question/2018063852718272795",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 18时27分]"
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 19时24分]"
         }
       ]
     },
