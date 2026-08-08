@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:24:10.494616+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-08-08T20:37:44.177027+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "14 岁男生带病跑步心脏骤停后成一级伤残，校内 AED 未启用，这起事故中校方是否失责？",
@@ -30,8 +30,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 19时24分]"
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 20时37分]"
+        },
+        {
+          "title": "美联储加息博弈焦点转向CPI，黄金多头已跑步进场",
+          "url": "https://flash.jin10.com/detail/20260808191803817800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
