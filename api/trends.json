@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:55:34.840205+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2026-08-14T19:42:24.776519+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,18 @@
           "time_info": "[00时52分 ~ 09时27分]"
         },
         {
+          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
+          "url": "https://www.zhihu.com/question/2071379437682267339",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 19时42分]"
+        },
+        {
           "title": "男子健身房指导女友 被要求看结婚证",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B+%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81",
           "source": "百度热搜",
@@ -34,18 +46,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时27分 ~ 12时04分]"
-        },
-        {
-          "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
-          "url": "https://www.zhihu.com/question/2071379437682267339",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 18时55分]"
         },
         {
           "title": "偷车贼慌不择路 一头扎进特警健身房",
