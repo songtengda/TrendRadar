@@ -1,114 +1,22 @@
 {
-  "generated_at": "2026-08-14T20:55:22.705233+08:00",
-  "total_titles_processed": 1750,
+  "generated_at": "2026-08-15T00:51:09.102592+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "男子健身房指导女友被要求看结婚证",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            9,
-            10,
-            13,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 09时27分]"
-        },
         {
           "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
           "url": "https://www.zhihu.com/question/2071379437682267339",
           "source": "知乎",
           "ranks": [
-            13,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 20时55分]"
-        },
-        {
-          "title": "男子健身房指导女友 被要求看结婚证",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B+%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时04分]"
-        },
-        {
-          "title": "偷车贼慌不择路 一头扎进特警健身房",
-          "url": "https://www.baidu.com/s?wd=%E5%81%B7%E8%BD%A6%E8%B4%BC%E6%85%8C%E4%B8%8D%E6%8B%A9%E8%B7%AF+%E4%B8%80%E5%A4%B4%E6%89%8E%E8%BF%9B%E7%89%B9%E8%AD%A6%E5%81%A5%E8%BA%AB%E6%88%BF",
-          "source": "百度热搜",
-          "ranks": [
-            22
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "睡眠要守住4小时修复黄金期",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E8%A6%81%E5%AE%88%E4%BD%8F4%E5%B0%8F%E6%97%B6%E4%BF%AE%E5%A4%8D%E9%BB%84%E9%87%91%E6%9C%9F%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 16时12分]"
-        },
-        {
-          "title": "医生建议年轻人保证每天7小时睡眠",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BF%9D%E8%AF%81%E6%AF%8F%E5%A4%A97%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "这3种面包其实是热量刺客",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%993%E7%A7%8D%E9%9D%A2%E5%8C%85%E5%85%B6%E5%AE%9E%E6%98%AF%E7%83%AD%E9%87%8F%E5%88%BA%E5%AE%A2%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            9,
-            6,
-            4,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时55分 ~ 09时27分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         }
       ]
     }
