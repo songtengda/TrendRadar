@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-08-14T07:36:55.780748+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-08-14T09:27:32.355736+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "男子健身房指导女友被要求看结婚证",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            9,
+            10,
+            13,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 09时27分]"
+        },
+        {
+          "title": "男子健身房指导女友 被要求看结婚证",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B+%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
     {
       "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
       "match_count": 1,
@@ -16,32 +49,29 @@
             9,
             6,
             4,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时55分 ~ 09时27分]"
         }
       ]
     },
     {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
+      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
       "match_count": 1,
       "titles": [
         {
-          "title": "男子健身房指导女友被要求看结婚证",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8C%87%E5%AF%BC%E5%A5%B3%E5%8F%8B%E8%A2%AB%E8%A6%81%E6%B1%82%E7%9C%8B%E7%BB%93%E5%A9%9A%E8%AF%81%23&t=31&band_rank=22&Refer=top",
+          "title": "医生建议年轻人保证每天7小时睡眠",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BF%9D%E8%AF%81%E6%AF%8F%E5%A4%A97%E5%B0%8F%E6%97%B6%E7%9D%A1%E7%9C%A0%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22,
-            9,
-            10,
-            13,
-            12
+            22
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 07时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     }
