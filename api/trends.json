@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T10:23:53.092334+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-08-16T11:44:35.829413+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,41 @@
           "source": "微博",
           "ranks": [
             5,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 10时23分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 11时44分]"
         },
         {
           "title": "旺旺晒出无糖低糖新品",
           "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E6%99%92%E5%87%BA%E6%97%A0%E7%B3%96%E4%BD%8E%E7%B3%96%E6%96%B0%E5%93%81",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 11时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "披哥6初见面为何会变成健身现场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%AB%E5%93%A56%E5%88%9D%E8%A7%81%E9%9D%A2%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%8F%98%E6%88%90%E5%81%A5%E8%BA%AB%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时23分"
+          "time_info": "11时44分"
         }
       ]
     }
