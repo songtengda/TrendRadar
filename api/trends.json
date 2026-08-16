@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T18:19:07.783583+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-08-16T19:16:36.833833+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "旺旺晒出无糖低糖新品",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 11时44分]"
+        },
+        {
+          "title": "旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗？",
+          "url": "https://www.zhihu.com/question/2072246554115535950",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -61,6 +72,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时27分 ~ 16时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "研究称每天吃西红柿，6 周可显著减轻脂肪肝，是真的吗？怎么吃效果最好？",
+          "url": "https://www.zhihu.com/question/2071202723014206803",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     }
