@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-16T09:00:24.011781+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-08-16T10:23:53.092334+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "旺旺晒出无糖低糖新品",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%BA%E6%97%BA%E6%99%92%E5%87%BA%E6%97%A0%E7%B3%96%E4%BD%8E%E7%B3%96%E6%96%B0%E5%93%81%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时23分]"
+        },
+        {
+          "title": "旺旺晒出无糖低糖新品",
+          "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E6%99%92%E5%87%BA%E6%97%A0%E7%B3%96%E4%BD%8E%E7%B3%96%E6%96%B0%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     }
