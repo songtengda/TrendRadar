@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T19:16:36.833833+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-08-16T20:30:01.799326+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[08时59分 ~ 11时44分]"
         },
         {
+          "title": "旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗？",
+          "url": "https://www.zhihu.com/question/2072246554115535950",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时30分]"
+        },
+        {
           "title": "旺旺晒出无糖低糖新品",
           "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E6%99%92%E5%87%BA%E6%97%A0%E7%B3%96%E4%BD%8E%E7%B3%96%E6%96%B0%E5%93%81",
           "source": "百度热搜",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 11时44分]"
-        },
-        {
-          "title": "旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗？",
-          "url": "https://www.zhihu.com/question/2072246554115535950",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         }
       ]
     },
@@ -84,11 +85,12 @@
           "url": "https://www.zhihu.com/question/2071202723014206803",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时30分]"
         }
       ]
     }
