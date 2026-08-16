@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T20:30:01.799326+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-08-16T23:17:46.488844+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 20时30分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 23时17分]"
         },
         {
           "title": "旺旺晒出无糖低糖新品",
@@ -86,11 +87,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 20时30分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 23时17分]"
         }
       ]
     }
