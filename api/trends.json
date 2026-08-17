@@ -1,84 +1,22 @@
 {
-  "generated_at": "2026-08-17T20:34:45.642675+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-08-18T01:23:05.831061+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗？",
-          "url": "https://www.zhihu.com/question/2072246554115535950",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            4,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 07时16分]"
-        },
         {
           "title": "饮食营养背后的生意经",
           "url": "https://search.bilibili.com/all?keyword=%E9%A5%AE%E9%A3%9F%E8%90%A5%E5%85%BB%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%9F%E6%84%8F%E7%BB%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "年纪大了为什么更容易出现营养跟不上",
-          "url": "https://www.toutiao.com/trending/7674819557812289599/",
-          "source": "今日头条",
-          "ranks": [
-            13
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "运动减肥 力量训练 有氧 跑步 快走 HIIT 健身",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长沙25元月卡健身房已投400家",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%9925%E5%85%83%E6%9C%88%E5%8D%A1%E5%81%A5%E8%BA%AB%E6%88%BF%E5%B7%B2%E6%8A%95400%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "代谢 基础代谢 血糖 胰岛素 脂肪肝 睡眠",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "研究称每天吃西红柿，6 周可显著减轻脂肪肝，是真的吗？怎么吃效果最好？",
-          "url": "https://www.zhihu.com/question/2071202723014206803",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 07时16分]"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 01时23分]"
         }
       ]
     }
