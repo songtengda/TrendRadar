@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T15:48:53.906993+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-08-17T20:34:45.642675+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗？",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时16分 ~ 07时16分]"
+        },
+        {
+          "title": "饮食营养背后的生意经",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A5%AE%E9%A3%9F%E8%90%A5%E5%85%BB%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%9F%E6%84%8F%E7%BB%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "年纪大了为什么更容易出现营养跟不上",
