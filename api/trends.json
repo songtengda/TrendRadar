@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T11:46:18.077998+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-08-17T13:31:57.967646+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗？",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时16分 ~ 07时16分]"
+        },
+        {
+          "title": "年纪大了为什么更容易出现营养跟不上",
+          "url": "https://www.toutiao.com/trending/7674819557812289599/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
@@ -35,7 +46,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         }
