@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-08-18T20:35:53.560758+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-08-19T12:04:24.399992+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "健康饮食 营养 膳食 高蛋白 低脂 低糖 控糖 热量 卡路里",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "饮食营养背后的生意经",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A5%AE%E9%A3%9F%E8%90%A5%E5%85%BB%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%9F%E6%84%8F%E7%BB%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 02时32分]"
-        },
-        {
-          "title": "印度考虑降低糖进口关税以遏制国内糖价飙升",
-          "url": "https://flash.jin10.com/detail/20260818161353279800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://songtengda.github.io/TrendRadar/img/news.jpg"
 }
